@@ -1,2 +1,2 @@
-# events-mvp
-app web creador de eventos
+# events-mvp-front
+app web creador de eventos front
